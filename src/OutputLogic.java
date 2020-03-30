@@ -12,7 +12,7 @@ public class OutputLogic {
     }
 
     public static void personMove() {
-        int i=0;
+        
         System.out.println("Ваш ход. Введите число спичек: ");
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         try {
